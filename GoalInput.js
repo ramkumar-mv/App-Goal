@@ -29,7 +29,7 @@ function GoalInput(props) {
         />
         <TextInput
           style={styles.textInput}
-          placeholder="Your carbon footprint goal"
+          placeholder="Your course goal"
           onChangeText={goalInputHandler}
           value={enteredGoalText}
         />
